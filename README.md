@@ -46,7 +46,3 @@ Construir un sistema de predicción que estime la demanda de productos en difere
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost)
 - Power BI
-
----
-
-## 📁 Estructura del repositorio
